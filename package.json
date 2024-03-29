@@ -1,0 +1,13 @@
+{
+  "name": "mlsh-plugin-qconsole",
+  "version": "1.0.0",
+  "description": "Plugin repo for mlsh",
+  "main": "scripts/index.js",
+  "scripts": {
+    "scaffold": "mlsh-scaffold",
+    "package": "mlsh-package"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
